@@ -1,6 +1,6 @@
 # LearnDash Ratings, Reviews, & Feedback - Course Review Prompt Customization
 
-This repository contains a custom function for the **Ratings, Reviews, & Feedback** add-on for LearnDash that modifies the behavior of course review prompts. By default, LearnDash sends review prompts when users complete lessons, topics, quizzes, or update their course access. This function removes those prompts and ensures review requests are only sent when the course is fully completed.
+This repository contains a custom function for the **Ratings, Reviews, & Feedback** add-on for LearnDash that modifies the behavior of course review prompts. This function removes those prompts and ensures review requests are only sent when the course is fully completed.
 
 ## Functionality
 
